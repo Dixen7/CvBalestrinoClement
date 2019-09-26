@@ -2137,7 +2137,7 @@ input, select, textarea {
 
 		#sidebar nav > ul {
 			list-style: none;
-
+			/* padding: 0; */
 		}
 
 			#sidebar nav > ul > li {
@@ -2450,29 +2450,18 @@ input, select, textarea {
 			}
 	
 			#encaps figure{
+	
 				width: 150%;
 	
 			}
 	
 			#encaps{
 				display: flex;
-				flex-direction: row;
+				flex-direction: column;
 				justify-content: space-between;
 			}
 
-			#sidebar nav ul{
-			width: 18%;
-			display: flex;
-			flex-direction: row;
-			justify-content: space-around;
-			padding-left: 105px;
-			}
-
-
-			#sidebar nav {
-				width: 20%x;;
-	
-				}
+		}
 
 
 
