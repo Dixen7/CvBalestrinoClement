@@ -3943,11 +3943,15 @@ input, select, textarea {
 		img{
 			border-radius: 50%;
 			border: 5px solid rgb(255, 255, 255);
+			width: 70%;
+			
 		}
 
 		figure{
-			margin-top:210px;
-			margin-left: -106px;
+			margin-top:60%;
+			margin-left: -40%;
+			
+
 			
 		}
 
