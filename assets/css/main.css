@@ -3971,14 +3971,12 @@ input, select, textarea {
 
 		#two{
 			margin: 0 auto;
-			/* padding-left: 250px; */
 			display: flex;
 			justify-content: center;
 		}
 
 		#three{
 			margin: 0 auto;
-			/* padding-left: 250px; */
 			display: flex;
 			justify-content: center;
 		}
@@ -3992,7 +3990,7 @@ input, select, textarea {
 			width: 170px;
 			display: flex;
 			justify-content: space-around;
-			margin-left: 120px;
+			margin: 0 auto;
 		}
 
 		/* a{
@@ -4046,6 +4044,10 @@ input, select, textarea {
 			border: dotted 0px rgba(255, 255, 255, 0);
 		}
 
+		#h1premier{
+			font-size: 75px;
+		}
+
 
 		@media screen and (max-width: 736px) {
 
@@ -4075,7 +4077,17 @@ input, select, textarea {
 				overflow-x: hidden;
 			}
 
+			#h1premier{
+				font-size: 40px;
+			}
 
+			ul.contact{
+				font-size: 20px;
+			}
+
+			ul.icons{
+				font-size: 30px;
+			}
 
 		}
 
