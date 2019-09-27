@@ -3957,6 +3957,12 @@ input, select, textarea {
 
 		.inner{
 			width: 1050px;
+			/* margin: 0 auto;
+			/* padding-left: 250px; */
+			/* display: flex;
+			flex-direction: column;
+			justify-content: center; */ */
+
 		}
 
 		i.fab.fa-laptop{
@@ -3965,12 +3971,16 @@ input, select, textarea {
 
 		#two{
 			margin: 0 auto;
-			padding-left: 250px;
+			/* padding-left: 250px; */
+			display: flex;
+			justify-content: center;
 		}
 
 		#three{
 			margin: 0 auto;
-			padding-left: 250px;
+			/* padding-left: 250px; */
+			display: flex;
+			justify-content: center;
 		}
 
 		#fontawesome.hover{
@@ -4035,3 +4045,38 @@ input, select, textarea {
 			font-size: 40px;
 			border: dotted 0px rgba(255, 255, 255, 0);
 		}
+
+
+		@media screen and (max-width: 736px) {
+
+			.inner .contain{
+
+				width: 28%;
+
+			}
+
+			.sidebar{
+				display: none;
+			}
+
+			.contacter{
+				padding-left: 25px;
+			}
+
+			#three h2, #three p{
+				padding-left: 25px;
+			}
+
+			#three p{
+				width: 80%;
+			}
+
+			html{
+				overflow-x: hidden;
+			}
+
+
+
+		}
+
+	
