@@ -3973,6 +3973,7 @@ input, select, textarea {
 			margin: 0 auto;
 			display: flex;
 			justify-content: center;
+			flex-direction: column;
 		}
 
 		#three{
@@ -4089,6 +4090,10 @@ input, select, textarea {
 				font-size: 30px;
 			}
 
+		}
+
+		#two .inner{
+			margin: 0 auto;
 		}
 
 	
