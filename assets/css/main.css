@@ -4096,4 +4096,19 @@ input, select, textarea {
 			margin: 0 auto;
 		}
 
+		#fontawesome.fas.fa-microscope{
+			color : white;
+			font-size: 100px;
+		}
+
+		#fontawesome.fas.fa-users{
+			color : white;
+			font-size: 100px;
+		}
+
+		#fontawesome.fas.fa-ruler-vertical{
+			color : white;
+			font-size: 100px;
+		}
+
 	
