@@ -3897,6 +3897,28 @@ input, select, textarea {
 
 
 
+	#two.inner{
+		margin: 0 auto;
+	}
+
+	#fontawesome.fas.fa-microscope{
+		color : white;
+		font-size: 100px;
+	}
+
+	#fontawesome.fas.fa-users{
+		color : white;
+		font-size: 100px;
+	}
+
+	#fontawesome.fas.fa-ruler-vertical{
+
+		color : white;
+		font-size: 100px;
+	}
+
+
+
 	#intro {
 		
 		background-attachment: fixed;
@@ -4088,28 +4110,6 @@ input, select, textarea {
 
 		}
 
-<<<<<<< HEAD
 
-		#fontawesome.fas.fa-ruler-vertical, #fontawesome.fas.fa-users, #fontawesome.fas.fa-microscope{
-=======
-		#two .inner{
-			margin: 0 auto;
-		}
-
-		#fontawesome.fas.fa-microscope{
-			color : white;
-			font-size: 100px;
-		}
-
-		#fontawesome.fas.fa-users{
-			color : white;
-			font-size: 100px;
-		}
-
-		#fontawesome.fas.fa-ruler-vertical{
->>>>>>> 762d7f05e1c4a8ce417395741a5cfc2562003409
-			color : white;
-			font-size: 100px;
-		}
 
 	
