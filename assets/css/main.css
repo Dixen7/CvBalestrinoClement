@@ -3957,11 +3957,7 @@ input, select, textarea {
 
 		.inner{
 			width: 1050px;
-			/* margin: 0 auto;
-			/* padding-left: 250px; */
-			/* display: flex;
-			flex-direction: column;
-			justify-content: center; */ */
+			margin: 0 auto;
 
 		}
 
@@ -4092,6 +4088,10 @@ input, select, textarea {
 
 		}
 
+<<<<<<< HEAD
+
+		#fontawesome.fas.fa-ruler-vertical, #fontawesome.fas.fa-users, #fontawesome.fas.fa-microscope{
+=======
 		#two .inner{
 			margin: 0 auto;
 		}
@@ -4107,6 +4107,7 @@ input, select, textarea {
 		}
 
 		#fontawesome.fas.fa-ruler-vertical{
+>>>>>>> 762d7f05e1c4a8ce417395741a5cfc2562003409
 			color : white;
 			font-size: 100px;
 		}
